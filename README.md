@@ -1,4 +1,4 @@
 # Applied-Economic-Analysis-1
-Assignments
+Assignments 
 
-[assignment 1](https://github.com/Philinevisser/Applied-Economic-Analysis-1/blob/master/Assignment%20AEA1.ipynb)
+https://philinevisser.github.io/Applied-Economic-Analysis-1/./AEA(2).html
