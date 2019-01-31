@@ -1,4 +1,3 @@
 # Applied-Economic-Analysis-1
 Assignments 
-
-https://philinevisser.github.io/Applied-Economic-Analysis-1/AEA1.html
+https://philinevisser.github.io/Applied-Economic-Analysis-1/AEA1v2.html
